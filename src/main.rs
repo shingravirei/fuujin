@@ -1,5 +1,3 @@
-mod template;
-
 use colored::*;
 use fuujin::config;
 use std::process;
